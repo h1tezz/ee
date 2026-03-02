@@ -4,6 +4,8 @@
 
 vless://b0aa22ee-b085-45aa-a448-831aa4ef1573@game.cloudevpn.cfd:7443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=111111#🇪🇪 🕹️ Игровой №1
 
+vless://c0a4392f-54a7-4e52-86f6-9938c16dab82@185.223.168.150:8080?mode=gun&security=none&encryption=none&type=grpc&serviceName=vless#🇪🇪 🕹️ Игровой №1.2
+
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSjN2TGs0UjQ1RWZPUTVuSEVKaFkrS3YzaWo5dzVpbHFLZzFaRDVRN3BRPQ@videocdn.cfd:21160?type=tcp#🇫🇮 🕹️ Игровой №2
 
 vless://54fceaac-130d-4e43-b461-f40017fcc5f6@51.250.94.95:40425?type=tcp&encryption=none&security=reality&pbk=UAkxl62fKBNLZ1qZLUir9PPg0cl1qD7Quy8VFsG6nDQ&fp=firefox&sni=yandex.ru&sid=5a3ca1d6f9&spx=%2F#🇷🇺 🕹️ Игровой №3 [LTE]
