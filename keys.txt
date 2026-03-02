@@ -1,6 +1,6 @@
 #profile-title: game 🎮
 #profile-update-interval: 24
-#announce: крутые игровые сервера
+#announce: 🌟 - Сервера с поддержкой Gemini
 
 vless://b0aa22ee-b085-45aa-a448-831aa4ef1573@game.cloudevpn.cfd:7443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=111111#🕹️ Игровой №1
 
@@ -8,3 +8,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSjN2TGs0UjQ1RWZPUTVuSEVKaFkrS3YzaWo5dzVpbHF
 
 vless://93c6b884-350d-495f-8580-5c86d7de1f73@mirror.cloudevpn.cfd:8443?security=reality&encryption=none&pbk=_y82O0knXkhgL0W-TfWDp2GvvZnNeesTrrFej1jxaGc&headerType=none&fp=firefox&spx=%2F&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=75#🕹️ Игровой №3 [LTE]
 
+vless://8a1c7aa8-b98e-4926-aaec-af4df5322fb7@ya.cloudevpn.cfd:47613?type=tcp&encryption=none&security=reality&pbk=umIug8D8MUtFsAyPlWmNdrG2WOwHSk9ZCPnVhr0kmGY&fp=chrome&sni=max.ru&sid=13e51c&spx=%2F&flow=xtls-rprx-vision#🕹️ 🌟 Игровой №4 [LTE]
