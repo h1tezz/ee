@@ -1,4 +1,4 @@
-#profile-title: game 🎮
+#profile-title: @placedies
 #profile-update-interval: 24
 #announce: 🌟 - Сервера с поддержкой Gemini
 
